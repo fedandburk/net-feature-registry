@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>Fedandburk.FeatureRegistry</PackageId>
+    <PackageVersion>1.0.2</PackageVersion>
+    <Title>Feature Registry</Title>
+    <Description>Feature Registry for .NET.</Description>
+    <Copyright>FEDANDBURK</Copyright>
+    <Authors>Prin53, FEDANDBURK</Authors>
+    <Owners>Prin53, FEDANDBURK</Owners>
+    <NeutralLanguage>en</NeutralLanguage>
+    <PackageTags>dotnet, featureregistry</PackageTags>
+    <PackageIconUrl>https://static.fedandburk.com/logo.svg</PackageIconUrl>
+    <PackageProjectUrl>https://github.com/fedandburk/net-feature-registry</PackageProjectUrl>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageReleaseNotes>Migrated to .NET 7</PackageReleaseNotes>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/fedandburk/net-feature-registry</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
