@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageId>Fedandburk.FeatureRegistry</PackageId>
-    <PackageVersion>1.0.2</PackageVersion>
+    <PackageVersion>1.0.20</PackageVersion>
     <Title>Feature Registry</Title>
     <Description>Feature Registry for .NET.</Description>
     <Copyright>FEDANDBURK</Copyright>
